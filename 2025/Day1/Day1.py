@@ -1,3 +1,4 @@
+##https://adventofcode.com/2025/day/1
 dialLocation = 50
 max_value = 99
 min_value = 0
